@@ -1,0 +1,42 @@
+body {
+    margin: auto;
+    background-color: #eeeeee;
+    
+}
+
+header, form, h1{
+    margin: auto;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+section {
+    margin: auto;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+table {
+    border-style: none;
+    border-color: #ffffff;
+    background-color: rgb(154, 222, 240);
+}
+
+td {
+    border-color: rgb(154, 222, 240);
+    background-color: #ffffff;
+
+}
+
+footer {
+    background-color: #cccccc;
+    color: #000000;
+    bottom: 5px;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+}
+
+#pesquisar {
+    margin-left: 800px;
+}
